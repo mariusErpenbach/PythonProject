@@ -33,7 +33,7 @@ f = 3 % 5 # 2
 #
 # print(fuelEfficency())
 
-#6
+#7
 # def calculate_storage():
 #         height = int(input("Enter the height of the image in pixels: "))
 #         width = int(input("Enter the width of the image in pixels: "))
