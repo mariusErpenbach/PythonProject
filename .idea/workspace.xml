@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4ab3ab64-88ff-4cc0-998e-fcec4ae1ad93" name="Changes" comment="function declaration&#10;parameters&#10;return values">
+    <list default="true" id="4ab3ab64-88ff-4cc0-998e-fcec4ae1ad93" name="Changes" comment="Funktionen und Bedingungen &#10;Seite 553&#10;Aufgaben 2-5">
+      <change afterPath="$PROJECT_DIR$/VerzweigungenFunktionen.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FunktionenUndBedingungen.py" beforeDir="false" afterPath="$PROJECT_DIR$/FunktionenUndBedingungen.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +50,7 @@
     "Python.Buchaufgaben.executor": "Run",
     "Python.Datentypen-Variablen-Operatoren.executor": "Run",
     "Python.FunktionenUndBedingungen.executor": "Run",
+    "Python.VerzweigungenFunktionen.executor": "Run",
     "Python.main.executor": "Run",
     "Python.test.executor": "Run",
     "Python.tests.executor": "Run",
@@ -83,11 +83,20 @@
       <option name="project" value="LOCAL" />
       <updated>1741612536358</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Funktionen und Bedingungen &#10;Seite 553&#10;Aufgaben 2-5">
+      <option name="closed" value="true" />
+      <created>1741689593713</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1741689593713</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="function declaration&#10;parameters&#10;return values" />
-    <option name="LAST_COMMIT_MESSAGE" value="function declaration&#10;parameters&#10;return values" />
+    <MESSAGE value="Funktionen und Bedingungen &#10;Seite 553&#10;Aufgaben 2-5" />
+    <option name="LAST_COMMIT_MESSAGE" value="Funktionen und Bedingungen &#10;Seite 553&#10;Aufgaben 2-5" />
   </component>
 </project>
