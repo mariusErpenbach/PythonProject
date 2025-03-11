@@ -19,3 +19,21 @@ def test():
 print(x)
 y = test()
 print(x)
+
+
+
+def test_function():
+    a = 1
+
+
+print(test_function())
+
+# ========
+
+
+def test_functionTwo(a,b):
+    return min(a,b)
+
+zahl1 = float(input("gib float 1"))
+zahl2 = float(input("gib float 2"))
+print(test_functionTwo(zahl1, zahl2))

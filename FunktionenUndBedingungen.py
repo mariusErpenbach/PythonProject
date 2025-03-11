@@ -24,7 +24,7 @@ print(evenNumber(3))
 
 #5
 def schaltJahr(year):
-    if(year%4 == 0 or year%100==0):
+    if(year%4 == 0 and year%100!=0 or year%4 == 0 and year%100==0 and year%400==0 ):
         return True
     else:
         return False
