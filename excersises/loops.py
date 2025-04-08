@@ -1,10 +1,17 @@
-#1
+# #1
 #
-# counterA = 10
+# counterA = 1
 #
-# while counterA:
+# while counterA <= 10:
 #     print (counterA)
-#     counterA -=1
+#     counterA +=1
+
+# zahl = int(input("enter your number to add or 0 to stop"))
+# summe = 0
+# while zahl:
+#     summe += zahl
+#     zahl = int(input("enter your number to add or 0 to stop"))
+# print(summe)
 
 #2
 
@@ -25,6 +32,7 @@
 #     passwordInput = input("enter your password: ")
 #     if passwordInput==myPassword:
 #         loggedIn = True
+#         print("logged in")
 
 #4
 # for i in range(10):
@@ -39,12 +47,18 @@
 #     if i%5==0 and i != 0:
 #         print(i)
 
+# for i in range(0,22,+2):
+#     print(i)
+
+
 #6
 
 # for i in range(5):
 #     print("*"*5)
 
 #7
+# for i in range(10,0,-1):
+#     print(i)
 # for i in range(10):
 #     print(10-i)
 
@@ -56,22 +70,21 @@
 # print (len(friends))
 
 # #9
-# randomNumbers = [5,3,8,1,2]
-# randomNumbers.sort()
-# print (randomNumbers)
-#
+
 # #10
 # orderedNumbers = [1,2,3,4,5]
-# orderedNumbers.insert(-1,6)
+# orderedNumbers.insert(len(orderedNumbers),6)
 # orderedNumbers.insert(0,0)
 # print (orderedNumbers)
-# print ("3 is " + orderedNumbers.count(3) + "times in the list")
 #
 
 #11
-
 # for i in range(5):
 #     print ((i+1)*10)
+
+# lottozahlen=[10,20,30,40,50]
+# for i in lottozahlen:
+#     print(i)
 
 #12
 # prices = [3,4,1,2]
@@ -93,11 +106,11 @@
 #         print (randomList[i])
 
 #15
-randomList = [1,2,3,4,5,11,14,15,16,6,7,8]
-for i in range(len(randomList)):
-    print(str(i) + "=" + str(randomList[i]))
-
-
-for index, item in enumerate(randomList):
-    print(index, item)
-
+# randomList = [1,2,3,4,5,11,14,15,16,6,7,8]
+# for i in range(len(randomList)):
+#     print(str(i) + "=" + str(randomList[i]))
+#
+#
+# for index, item in enumerate(randomList):
+#     print(index, item)
+#
